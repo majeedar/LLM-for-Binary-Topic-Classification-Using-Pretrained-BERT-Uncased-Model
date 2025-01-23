@@ -1,4 +1,4 @@
-# Tweet Relevance Filtering Model
+# LLM for Binary Topic Classification Using Pretrained BERT-Uncased Model (A Tweet Relevance Filtering Model)
 This project explores two distinct methodologies for developing an effective tweet relevance filtering model, leveraging both traditional machine learning techniques and modern deep learning approaches. The goal is to classify tweets as relevant or non-relevant in the context of the Thameslink dataset.
 
 # Models
